@@ -1,0 +1,12 @@
+	div {
+		width: 80%;
+		margin: 0 auto;
+	}
+
+	body{
+		font: monospace;
+	}
+
+	code{
+		color: red;
+	}
